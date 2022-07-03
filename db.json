@@ -1,1 +1,5 @@
-{"fakes": [{"success":true,"errorMsg":""}]}
+{
+  "fakes": [
+    {"success":true,"errorMsg":""}
+  ]
+}
